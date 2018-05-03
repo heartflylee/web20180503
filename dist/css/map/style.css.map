@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css","style.scss"],"names":[],"mappings":"AACA,KCCA,KAEE,SAAA,SACA,WAAA,KAEF,KACE,UAAA","file":"../style.css","sourcesContent":[null,"@import 'var.scss';\r\n\r\nhtml,\r\nbody {\r\n  position: relative;\r\n  min-height: 100%;\r\n}\r\nbody {\r\n  font-size: $fontSize;\r\n}\r\n"]}

@@ -1,0 +1,10 @@
+@import 'var.scss';
+
+html,
+body {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  font-size: $fontSize;
+}
